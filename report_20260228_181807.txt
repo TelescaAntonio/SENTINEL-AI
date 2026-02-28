@@ -1,0 +1,47 @@
+=======================================================
+  REPORT SICUREZZA - SENTINEL BUSINESS
+  Generato: 2026-02-28 18:18 UTC
+  Conforme a: NIS2 Art.21, GDPR Art.32
+=======================================================
+
+1. RIEPILOGO MONITORAGGIO
+   Pacchetti analizzati: 163
+   Dispositivi monitorati: 17
+   Flussi di rete: 22
+   Minacce rilevate: 15
+     Critiche: 12 | Alte: 2 | Medie: 1
+
+2. DETTAGLIO MINACCE PER TIPO
+   - malicious_domain: 4
+   - lateral_movement: 4
+   - beaconing: 2
+   - phishing: 2
+   - suspicious_port: 1
+   - brute_force: 1
+   - dns_exfiltration: 1
+
+3. DISPOSITIVI A RISCHIO
+   - 192.168.1.10 (PC Titolare): 4 minacce
+   - 192.168.1.100 (WiFi Ospiti - Tel1): 1 minacce
+   - 192.168.1.11 (PC Segretaria): 6 minacce
+   - 192.168.1.12 (PC Contabilita): 2 minacce
+   - 192.168.1.20 (Server NAS): 2 minacce
+
+4. STATO COMPLIANCE
+   NIS2 Art.21 (Gestione rischi): NON CONFORME
+   GDPR Art.32 (Sicurezza trattamento): A RISCHIO
+
+5. AZIONI RICHIESTE
+   [URGENTE] Minacce critiche richiedono intervento immediato:
+   - Isolare i dispositivi compromessi
+   - Eseguire scansione antivirus su tutta la rete
+   - Cambiare tutte le credenziali di accesso
+   - Verificare integrita' dei backup
+   - Notifica al Garante entro 72h se dati personali compromessi
+
+6. NOTE INVESTIGATIVE
+   [2026-02-28T18:17] PC segretaria probabilmente infettato via email phishing
+
+=======================================================
+  Prossimo report automatico: mensile
+=======================================================

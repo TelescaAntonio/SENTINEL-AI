@@ -1,0 +1,5 @@
+config/keys.json
+__pycache__/
+*.pyc
+reports/*.txt
+.env

@@ -1,0 +1,25 @@
+=======================================================
+  REPORT SICUREZZA - SENTINEL BUSINESS
+  Generato: 2026-02-28 17:58 UTC
+  Conforme a: NIS2 Art.21, GDPR Art.32
+=======================================================
+
+1. RIEPILOGO MONITORAGGIO
+   Pacchetti analizzati: 163
+   Dispositivi monitorati: 17
+   Flussi di rete: 21
+   Minacce rilevate: 18
+     Critiche: 12 | Alte: 5
+
+2. STATO COMPLIANCE
+   NIS2 Art.21 (Gestione rischi): NON CONFORME
+   GDPR Art.32 (Sicurezza trattamento): A RISCHIO
+
+3. AZIONI RICHIESTE
+   [URGENTE] Minacce critiche richiedono intervento immediato.
+   Consultare sezione 'minacce' per dettagli.
+   Notifica al Garante entro 72h se dati personali compromessi.
+
+=======================================================
+  Prossimo report automatico: mensile
+=======================================================

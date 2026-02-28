@@ -1,0 +1,5 @@
+{
+  "virustotal": "YOUR_VT_KEY",
+  "abuseipdb": "YOUR_ABUSE_KEY",
+  "anthropic": "YOUR_CLAUDE_KEY"
+}
