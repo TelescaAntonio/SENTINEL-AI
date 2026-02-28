@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Antonio Telesca / IRST Institute. All Rights Reserved.
+# PROPRIETARY SOFTWARE - Unauthorized use strictly prohibited. See LICENSE.
+
 """
 SENTINEL BUSINESS - Threat Analyzer
 Motore di analisi minacce con 8 detection engines

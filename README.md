@@ -45,9 +45,13 @@ Open http://localhost:8080
 
 ## License
 
-MIT License
+PROPRIETARY - All Rights Reserved. See LICENSE for full terms.
 
 ## Author
 
-Antonio Telesca - Cybersecurity Researcher
-https://github.com/TelescaAntonio
+Antonio Telesca - IRST Institute
+Email: antonio.telesca@irst-institute.eu
+GitHub: https://github.com/TelescaAntonio
+
+Copyright (c) 2026 Antonio Telesca. All Rights Reserved.
+Unauthorized use, reproduction or distribution is strictly prohibited.

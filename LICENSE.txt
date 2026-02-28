@@ -1,0 +1,140 @@
+SENTINEL-AI v2.0 - AI-Powered Cybersecurity Guardian
+Proprietary Software License
+
+Copyright (c) 2026 Antonio Telesca / IRST Institute. All Rights Reserved.
+
+OWNERSHIP
+This software, including but not limited to its source code, object code,
+documentation, algorithms, architecture, design, user interface, datasets,
+trained models, and all associated intellectual property (collectively,
+"the Software"), is the exclusive property of Antonio Telesca
+(hereinafter "the Author") and IRST Institute.
+
+ALL RIGHTS RESERVED
+
+No rights are granted to any person or entity except as explicitly
+stated in a separate written agreement signed by the Author.
+
+STRICTLY PROHIBITED
+Without the prior written consent of the Author, it is strictly
+prohibited to:
+
+1. COPY, REPRODUCE, DISTRIBUTE or REDISTRIBUTE the Software or any
+   part thereof, in any form, medium or by any means, whether digital,
+   printed or otherwise.
+
+2. MODIFY, ADAPT, TRANSLATE, MERGE or CREATE DERIVATIVE WORKS based
+   on the Software or any part thereof.
+
+3. USE the Software or any component for COMMERCIAL PURPOSES, including
+   but not limited to: sale, licensing, SaaS offerings, consulting
+   services, integration into third-party products or services.
+
+4. USE the Software to TRAIN, FINE-TUNE or AUGMENT any machine learning
+   model, artificial intelligence system, or automated decision-making
+   system without explicit written authorization.
+
+5. DECOMPILE, DISASSEMBLE, REVERSE ENGINEER or attempt to derive the
+   source code, algorithms, or architecture of the Software.
+
+6. REMOVE, ALTER or OBSCURE any copyright notice, trademark, license
+   information or attribution contained in the Software.
+
+7. SUBLICENSE, RENT, LEASE, LEND or TRANSFER the Software or any
+   rights therein to any third party.
+
+8. PUBLISH, DISPLAY or MAKE PUBLICLY AVAILABLE the Software or any
+   substantial portion thereof without authorization.
+
+9. CLAIM AUTHORSHIP or OWNERSHIP of the Software or any derivative,
+   or misrepresent the origin of the Software.
+
+10. USE the Software to COMPETE with, replicate or substitute any
+    product, service or research activity of the Author or IRST Institute.
+
+PERMITTED USE
+This Software is developed exclusively for:
+- Academic and scientific research conducted by or in collaboration
+  with the Author or IRST Institute.
+- Security testing in controlled, authorized and supervised environments.
+- Educational demonstration of AI-Cybersecurity integration under
+  direct supervision of the Author.
+- Evaluation by authorized parties for EU-funded research programs
+  (Horizon Europe, Digital Europe, EIC Accelerator) with prior
+  written consent.
+
+Any use beyond these purposes requires a separate commercial license
+agreement.
+
+EUROPEAN UNION RESEARCH PROTECTION
+This Software is developed in the context of European research and
+innovation activities. Any unauthorized use, reproduction or
+commercialization may constitute a violation of:
+- EU Regulation 2021/695 (Horizon Europe Framework Programme)
+- EU Directive 2019/790 (Copyright in the Digital Single Market)
+- EU Directive 2016/943 (Trade Secrets Protection)
+- EU Regulation 2016/679 (GDPR) where applicable
+
+The Author reserves all rights to seek funding, patents, trademarks
+and commercial exploitation through EU-funded programs and national
+research initiatives.
+
+PATENT AND INVENTION NOTICE
+The algorithms, architectures and methods implemented in this Software
+may be subject to pending patent applications. Any unauthorized
+implementation of similar methods may constitute patent infringement.
+
+CONFIDENTIALITY
+The Software and its documentation contain trade secrets and
+confidential information. Recipients of any portion of the Software
+are bound by obligations of confidentiality and shall not disclose
+any information to third parties.
+
+DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR OR IRST INSTITUTE BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+LEGAL ENFORCEMENT
+Any unauthorized use of this Software constitutes a violation of:
+- Italian Copyright Law No. 633 of April 22, 1941 (and subsequent
+  amendments including Legislative Decree No. 68/2003)
+- Italian Industrial Property Code (Legislative Decree No. 30/2005)
+- EU Regulation 2017/1001 (EU Trademark Regulation)
+- EU Directive 2004/48/EC (Enforcement of Intellectual Property Rights)
+- Berne Convention for the Protection of Literary and Artistic Works
+- WIPO Copyright Treaty (WCT)
+- Agreement on Trade-Related Aspects of Intellectual Property
+  Rights (TRIPS)
+
+Violations will be prosecuted to the fullest extent of applicable
+law in the competent courts of Italy and the European Union.
+The Author reserves the right to seek injunctive relief, damages
+and legal costs.
+
+TERMINATION
+Any rights granted under a separate agreement shall terminate
+immediately upon breach of any term of this License. Upon
+termination, all copies of the Software must be destroyed.
+
+GOVERNING LAW
+This License shall be governed by and construed in accordance with
+the laws of the Italian Republic and the European Union.
+Any disputes shall be subject to the exclusive jurisdiction of
+the Courts of [Author's jurisdiction], Italy.
+
+CONTACT
+Antonio Telesca
+IRST Institute
+Email: antonio.telesca@irst-institute.eu
+GitHub: https://github.com/TelescaAntonio
+
+For licensing requests, academic collaborations, EU research
+partnerships or commercial authorizations, please contact the
+Author at the email address above.

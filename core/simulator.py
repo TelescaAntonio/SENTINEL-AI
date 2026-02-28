@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Antonio Telesca / IRST Institute. All Rights Reserved.
+# PROPRIETARY SOFTWARE - Unauthorized use strictly prohibited. See LICENSE.
+
 """
 SENTINEL BUSINESS - Network Simulator
 Simula traffico realistico di una piccola impresa

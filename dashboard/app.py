@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Antonio Telesca / IRST Institute. All Rights Reserved.
+# PROPRIETARY SOFTWARE - Unauthorized use strictly prohibited. See LICENSE.
+
 """
 SENTINEL BUSINESS - Dashboard Web
 Centro di comando per PMI
